@@ -1475,11 +1475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\PRN211\\PRN211_SE1612.Net_HE151448\\lab\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
       "projectName": "DemoDataProviderFactory",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\PRN211\\PRN211_SE1612.Net_HE151448\\lab\\DemoDataProviderFactory\\DemoDataProviderFactory\\DemoDataProviderFactory.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\DemoDataProviderFactory\\DemoDataProviderFactory\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\PRN211\\PRN211_SE1612.Net_HE151448\\lab\\DemoDataProviderFactory\\DemoDataProviderFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\NET\\Shared\\NuGetPackages",
