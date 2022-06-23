@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\bin\Debug\net5.0\demoInherit_KeThua.exe
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\bin\Debug\net5.0\demoInherit_KeThua.deps.json
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\bin\Debug\net5.0\demoInherit_KeThua.runtimeconfig.json
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\bin\Debug\net5.0\demoInherit_KeThua.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\bin\Debug\net5.0\demoInherit_KeThua.dll
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\bin\Debug\net5.0\ref\demoInherit_KeThua.dll
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\bin\Debug\net5.0\demoInherit_KeThua.pdb
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\demoInherit_KeThua.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\demoInherit_KeThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\demoInherit_KeThua.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\demoInherit_KeThua.AssemblyInfo.cs
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\demoInherit_KeThua.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\demoInherit_KeThua.dll
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\ref\demoInherit_KeThua.dll
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\demoInherit_KeThua.pdb
+C:\Users\Admin\source\repos\demoInherit_KeThua\demoInherit_KeThua\obj\Debug\net5.0\demoInherit_KeThua.genruntimeconfig.cache
