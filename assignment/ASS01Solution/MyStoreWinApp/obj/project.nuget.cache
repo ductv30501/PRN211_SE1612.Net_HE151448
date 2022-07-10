@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yOivZD++OQ3VvcpGzMZQIpOKPzeZO6lZxHsIspOxajnyGC2qtB1LOE7LAJkLMVbCZix9kPKo/CGzRsZoUm6qrg==",
+  "dgSpecHash": "jKsN0NV2w1TzL+/EmY/q/QG32Zx39SGBC1S8aF+8ifZ7PPZgDQqrzpTHNsI3WK9/YMpRonagaOcxmMWseaVYvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ASS01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "projectFilePath": "D:\\NET\\PRN211_SE1612.Net_HE151448\\assignment\\ASS01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

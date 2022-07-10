@@ -1538,11 +1538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ASS01Solution\\BusinessObject\\BusinessObject.csproj",
+      "projectUniqueName": "D:\\NET\\PRN211_SE1612.Net_HE151448\\assignment\\ASS01Solution\\BusinessObject\\BusinessObject.csproj",
       "projectName": "BusinessObject",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\ASS01Solution\\BusinessObject\\BusinessObject.csproj",
+      "projectPath": "D:\\NET\\PRN211_SE1612.Net_HE151448\\assignment\\ASS01Solution\\BusinessObject\\BusinessObject.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\ASS01Solution\\BusinessObject\\obj\\",
+      "outputPath": "D:\\NET\\PRN211_SE1612.Net_HE151448\\assignment\\ASS01Solution\\BusinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\NET\\Shared\\NuGetPackages",
