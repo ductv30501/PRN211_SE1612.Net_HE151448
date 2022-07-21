@@ -29,12 +29,10 @@ namespace AutomobileWinApp
         /// </summary>
         private void InitializeComponent()
         {
-            this.lbCarID = new System.Windows.Forms.Label();
             this.lbCarName = new System.Windows.Forms.Label();
             this.lbManufacturer = new System.Windows.Forms.Label();
             this.lbPrice = new System.Windows.Forms.Label();
             this.lbReleaseYear = new System.Windows.Forms.Label();
-            this.txtCarID = new System.Windows.Forms.TextBox();
             this.txtCarName = new System.Windows.Forms.TextBox();
             this.cboManufacturer = new System.Windows.Forms.ComboBox();
             this.txtPrice = new System.Windows.Forms.MaskedTextBox();
@@ -42,15 +40,6 @@ namespace AutomobileWinApp
             this.btnSave = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // lbCarID
-            // 
-            this.lbCarID.AutoSize = true;
-            this.lbCarID.Location = new System.Drawing.Point(53, 29);
-            this.lbCarID.Name = "lbCarID";
-            this.lbCarID.Size = new System.Drawing.Size(50, 20);
-            this.lbCarID.TabIndex = 0;
-            this.lbCarID.Text = "Car ID";
             // 
             // lbCarName
             // 
@@ -87,13 +76,6 @@ namespace AutomobileWinApp
             this.lbReleaseYear.Size = new System.Drawing.Size(88, 20);
             this.lbReleaseYear.TabIndex = 4;
             this.lbReleaseYear.Text = "ReleaseYear";
-            // 
-            // txtCarID
-            // 
-            this.txtCarID.Location = new System.Drawing.Point(154, 26);
-            this.txtCarID.Name = "txtCarID";
-            this.txtCarID.Size = new System.Drawing.Size(218, 27);
-            this.txtCarID.TabIndex = 5;
             // 
             // txtCarName
             // 
@@ -168,12 +150,10 @@ namespace AutomobileWinApp
             this.Controls.Add(this.txtPrice);
             this.Controls.Add(this.cboManufacturer);
             this.Controls.Add(this.txtCarName);
-            this.Controls.Add(this.txtCarID);
             this.Controls.Add(this.lbReleaseYear);
             this.Controls.Add(this.lbPrice);
             this.Controls.Add(this.lbManufacturer);
             this.Controls.Add(this.lbCarName);
-            this.Controls.Add(this.lbCarID);
             this.Name = "frmCarDetails";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Car Details";
@@ -184,13 +164,10 @@ namespace AutomobileWinApp
         }
 
         #endregion
-
-        private System.Windows.Forms.Label lbCarID;
         private System.Windows.Forms.Label lbCarName;
         private System.Windows.Forms.Label lbManufacturer;
         private System.Windows.Forms.Label lbPrice;
         private System.Windows.Forms.Label lbReleaseYear;
-        private System.Windows.Forms.TextBox txtCarID;
         private System.Windows.Forms.TextBox txtCarName;
         private System.Windows.Forms.ComboBox cboManufacturer;
         private System.Windows.Forms.MaskedTextBox txtPrice;

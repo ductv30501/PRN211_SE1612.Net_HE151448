@@ -32,7 +32,7 @@ namespace AutomobileLibrary.DataAcess
         public IEnumerable<Car> GetCarList()
         {
             IDataReader dataReader = null;
-            string sql = "SELECT [CarID],[CarName],[Manufactor],[Price],[ReleaseYear] FROM .[Cars]";
+            string sql = "SELECT [CarID],[CarName],[Manufacturer],[Price],[ReleasedYear] FROM .[Cars]";
             var cars = new List<Car>();
             try
             {
@@ -66,7 +66,7 @@ namespace AutomobileLibrary.DataAcess
         {
             Car car = null;
             IDataReader dataReader = null;
-            string sql = "SELECT [CarID],[CarName],[Manufactor],[Price],[ReleaseYear] FROM [Cars]"+
+            string sql = "SELECT [CarID],[CarName],[Manufacturer],[Price],[ReleasedYear] FROM [Cars]" +
                 "WHERE CarID = @CarID";
             try
             {
@@ -103,10 +103,10 @@ namespace AutomobileLibrary.DataAcess
                 Car pro = GetcarByID(car.CarID);
                 if (pro == null)
                 {
-                    string sql = "INSERT INTO [Cars] ([CarID],[CarName]," +
-                        "[Manufactor],[Price],[ReleaseYear])VALUES(@CarID,@CarName,@Manufactor,@Price,@ReleaseYear)";
+                    string sql = "INSERT INTO [Cars] ([CarName]," +
+                        "[Manufacturer],[Price],[ReleasedYear])VALUES(@CarName,@Manufactor,@Price,@ReleaseYear)";
                     var parameters = new List<SqlParameter>();
-                    parameters.Add(dataProvider.CreateParameter("@CarID", 4, car.CarID, DbType.Int32));
+                    //parameters.Add(dataProvider.CreateParameter("@CarID", 4, car.CarID, DbType.Int32));
                     parameters.Add(dataProvider.CreateParameter("@CarName", 50, car.CarName, DbType.String));
                     parameters.Add(dataProvider.CreateParameter("@Manufactor", 50, car.Manufactor, DbType.String));
                     parameters.Add(dataProvider.CreateParameter("@Price", 50, car.Price, DbType.Decimal));
@@ -135,8 +135,8 @@ namespace AutomobileLibrary.DataAcess
                 Car pro = GetcarByID(car.CarID);
                 if (pro != null)
                 {
-                    string sql = "UPDATE [Cars] SET [CarName] = @CarName,[Manufactor] = @Manufactor," +
-                        "[Price] = @Price,[ReleaseYear] = @ReleaseYear WHERE [CarID] = @CarID";
+                    string sql = "UPDATE [Cars] SET [CarName] = @CarName,[Manufacturer] = @Manufactor," +
+                        "[Price] = @Price,[ReleasedYear] = @ReleaseYear WHERE [CarID] = @CarID";
                     var parameters = new List<SqlParameter>();
                     parameters.Add(dataProvider.CreateParameter("@CarID", 4, car.CarID, DbType.Int32));
                     parameters.Add(dataProvider.CreateParameter("@CarName", 50, car.CarName, DbType.String));

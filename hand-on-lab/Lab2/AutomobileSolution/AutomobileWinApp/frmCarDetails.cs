@@ -25,10 +25,10 @@ namespace AutomobileWinApp
         private void frmCarDetails_Load(object sender, EventArgs e)
         {
             cboManufacturer.SelectedIndex = 0;
-            txtCarID.Enabled = !InsertOrUpdate;
+            //txtCarID.Enabled = !InsertOrUpdate;
             if (InsertOrUpdate == true)
             {
-                txtCarID.Text = CarInfo.CarID.ToString();
+                //txtCarID.Text = CarInfo.CarID.ToString();
                 txtCarName.Text = CarInfo.CarName;
                 txtPrice.Text = CarInfo.Price.ToString();
                 txtReleaseYear.Text = CarInfo.ReleaseYear.ToString();
@@ -42,7 +42,6 @@ namespace AutomobileWinApp
             {
                 var car = new Car
                 {
-                    CarID = int.Parse(txtCarID.Text),
                     CarName = txtCarName.Text,
                     Manufactor = cboManufacturer.Text,
                     Price = decimal.Parse(txtPrice.Text),

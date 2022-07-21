@@ -1,0 +1,10 @@
+{
+
+
+
+  "ConnectionStrings": {
+    "MyStockDB": "Server=QUANGGGG\\QUANG;uid=sa;pwd=dangquang2001;database=MyStock"
+  }
+
+
+}

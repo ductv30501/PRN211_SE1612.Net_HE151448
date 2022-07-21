@@ -169,7 +169,7 @@ namespace Assignemtn2_SaleManagement
                     using(FStoreContext context = new FStoreContext())
                     {
                         Member m = context.Members.First(x => x.MemberId == memberID);
-                        m.MemberId = Convert.ToInt32(txtID.Text);
+                        //m.MemberId = Convert.ToInt32(txtID.Text);
                         m.Password = txtPassword.Text;
                         m.Email = txtEmail.Text;
                         m.CompanyName = txtCompany.Text;

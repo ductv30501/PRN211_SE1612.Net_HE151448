@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileWinApp\\AutomobileWinApp.csproj": {}
+    "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileWinApp\\AutomobileWinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+    "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectUniqueName": "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "projectName": "AutomobileLibrary",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectPath": "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileLibrary\\obj\\",
+        "outputPath": "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\NET\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileWinApp\\AutomobileWinApp.csproj": {
+    "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileWinApp\\AutomobileWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileWinApp\\AutomobileWinApp.csproj",
+        "projectUniqueName": "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileWinApp\\AutomobileWinApp.csproj",
         "projectName": "AutomobileWinApp",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileWinApp\\AutomobileWinApp.csproj",
+        "projectPath": "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileWinApp\\AutomobileWinApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileWinApp\\obj\\",
+        "outputPath": "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\NET\\Shared\\NuGetPackages",
@@ -94,8 +94,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj"
+              "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+                "projectPath": "D:\\NET\\PRN211_SE1612.Net_HE151448\\hand-on-lab\\Lab1\\HandOnLab\\AutomobileLibrary\\AutomobileLibrary.csproj"
               }
             }
           }
